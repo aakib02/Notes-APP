@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: cornflowerblue;
+    padding-top: 150px;
+}
+form{
+    background-color: white;
+    border-radius: 15px;
+    height: 400px;
+    width: 350PX;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    outline-color: blue;
+    justify-content: center;
+    font-size: 21px;
+    font-weight: 600;
+}
+input{
+   
+    outline-color: blue;
+    border:  2px solid red;
+}
+

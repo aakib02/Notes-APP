@@ -1,0 +1,23 @@
+.active{
+    color: rgb(0, 23, 99);
+    background-color: rgb(224, 221, 221);
+    font-size: 22px !important;
+    border-radius: 5px;
+    padding: 1px 4px;
+    box-shadow: 2px 2px 2px white;
+
+}
+.nav-link{
+    font-size: 22px!important;
+    color: black;
+}
+a{
+    font-size: 18px;
+    text-decoration: none;
+    margin: 7px;
+    color: black;
+    font-weight: 400;
+}
+a:hover{
+    color: rgb(22, 22, 22);
+}
